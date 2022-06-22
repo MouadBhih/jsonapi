@@ -1,0 +1,13 @@
+{
+   
+    "Teacher": {
+        "FullName": "Othman Meslouhi",
+        "Field": "Distributed Systems"
+    },
+    "Students": {
+        "student1": "Mouad BHIH",
+        "student2": "Zakaria Rguibi",
+        "Annee": "4eme année"
+
+    }
+}
